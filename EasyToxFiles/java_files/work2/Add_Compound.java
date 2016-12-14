@@ -368,8 +368,8 @@ public class Add_Compound {
 
 	
 	private static final class AddCompound {
-        private static final String F_NAME = "Test14517";
-        private static final String CLASS_C = "Test14517";
+        private static final String F_NAME = "Test14017";
+        private static final String CLASS_C = "Test14017";
         private static final String TYPE_CLASS = "Validity Testing";
         private static final String TYPE_CLASS1 = "Test Screen";
         
